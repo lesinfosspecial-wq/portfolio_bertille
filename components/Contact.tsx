@@ -5,7 +5,7 @@ export function Contact() {
     <section className="section contact" id="contact">
       <div className="shell">
         <div className="section-heading">
-          <p className="index">05 — Écrire ou appeler</p>
+          <p className="index">06 — Écrire ou appeler</p>
           <h2>Contact</h2>
         </div>
         <div className="contact-grid">

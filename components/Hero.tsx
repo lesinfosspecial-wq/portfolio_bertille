@@ -21,8 +21,8 @@ export function Hero() {
           <p className="hero-role">{profile.role}</p>
           <p className="lede">{profile.summary}</p>
           <div className="hero-actions">
-            <a className="button button-primary" href="#missions">
-              Voir les missions
+            <a className="button button-primary" href="#realisations">
+              Voir les réalisations
             </a>
             <a className="button button-ghost" href="#contact">
               La contacter

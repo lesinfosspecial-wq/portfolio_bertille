@@ -5,7 +5,7 @@ export function Toolbox() {
     <section className="section section-dark" id="outils">
       <div className="shell">
         <div className="section-heading">
-          <p className="index">04 — Savoir-faire</p>
+          <p className="index">05 — Savoir-faire</p>
           <h2>Outils maîtrisés</h2>
         </div>
         <ul className="tool-list">
